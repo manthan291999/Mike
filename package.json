@@ -1,0 +1,62 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Webside",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthan291999/Mike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manthan291999/Mike/issues"
+  },
+  "homepage": "https://github.com/manthan291999/Mike#readme",
+  "type": "module",
+  "dependencies": {
+    "@fontsource/inter": "^5.0.18",
+    "@react-email/components": "^0.0.21",
+    "@react-pdf/renderer": "^3.4.4",
+    "@react-three/drei": "^9.109.2",
+    "@react-three/fiber": "^8.17.5",
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "framer-motion": "^11.3.19",
+    "lucide-react": "^0.412.0",
+    "next": "^14.2.5",
+    "next-sitemap": "^4.2.3",
+    "postcss": "^8.4.39",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.52.1",
+    "react-intersection-observer": "^9.13.0",
+    "react-rnd": "^10.4.6",
+    "react-syntax-highlighter": "^15.5.0",
+    "tailwind-merge": "^2.4.0",
+    "tailwindcss": "^3.4.1",
+    "three": "^0.166.1",
+    "typescript": "^5.5.3",
+    "zod": "^3.23.8",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.26.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "@types/three": "^0.166.0",
+    "@upstash/ratelimit": "^2.0.1",
+    "@upstash/redis": "^1.34.0",
+    "@vercel/blob": "^0.23.3",
+    "resend": "^4.0.0"
+  }
+}
